@@ -4,7 +4,7 @@ To run this project you need Python 3 and the following Python libraries:
 - OpenCV (cv2): pip install opencv-python
 - bitstring: pip install bitstring
 - Numpy: pip install numpy
-- Zigzag (already in the project folder)
+- Zigzag (already in the project folder) </br>
     "zigzag.py" location source: https://github.com/amzhang1/simple-JPEG-compression/blob/master/zigzag.py
 
 In order to imbed hidden text in an image use the file 'run_stego_algorithim.py' as follows:
@@ -15,5 +15,5 @@ In order to imbed hidden text in an image use the file 'run_stego_algorithim.py'
 5. Run the file from cmd using: `python run_stego_algorithim.py`
 
 In order to extract the hidden text from the image,
-run the file 'extract_stego_image.py'
+run the file 'extract_stego_image.py'</br>
 use: `python extract_stego_image.py`
